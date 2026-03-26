@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm William Ferreira da Silva
 
-<!--
-**williamfds/williamfds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Fullstack Developer | Backend Specialist (Java & Node.js)
 
-Here are some ideas to get you started:
+I build scalable systems, distributed architectures and high-performance APIs using Java (Spring Boot) and Node.js (NestJS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+- **Backend:** Java (Spring Boot), Node.js (NestJS), TypeScript  
+- **Frontend:** React, TypeScript  
+- **Architecture:** Microservices, Distributed Systems, Event-Driven  
+- **Databases:** PostgreSQL, MongoDB, Firebird  
+- **Tools:** Docker, RabbitMQ, Redis, GitHub Actions  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 URL Shortener API
+- Built with NestJS, Redis and PostgreSQL  
+- Scalable architecture with caching and performance optimization  
+👉 https://github.com/williamfds/nestjs-url-shortener
+
+---
+
+## 💡 What I focus on
+
+I focus on building scalable, maintainable and high-performance systems, aligning technical quality with real business impact.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/william-ferreira-da-silva
