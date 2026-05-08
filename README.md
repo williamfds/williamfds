@@ -1,36 +1,56 @@
-# 👋 Hello, I'm William Ferreira da Silva
+# William Ferreira da Silva
 
-🚀 Senior Fullstack Developer | Backend Specialist (Java & Node.js)
+**Senior Backend Engineer** · Java + Node.js · Brazil 🇧🇷 (Remote · UTC-3)
 
-I build scalable systems, distributed architectures and high-performance APIs using Java (Spring Boot) and Node.js (NestJS).
-
----
-
-## 🧠 Tech Stack
-
-- **Backend:** Java (Spring Boot), Node.js (NestJS), TypeScript  
-- **Frontend:** React, TypeScript  
-- **Architecture:** Microservices, Distributed Systems, Event-Driven  
-- **Databases:** PostgreSQL, MongoDB, Firebird  
-- **Tools:** Docker, RabbitMQ, Redis, GitHub Actions  
+I build scalable APIs, distributed systems, and complex integrations for ERP, e-commerce, and real-time platforms. 7+ years of experience modernizing legacy monoliths into event-driven microservices.
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 What I work with
 
-### 🔗 URL Shortener API
-- Built with NestJS, Redis and PostgreSQL  
-- Scalable architecture with caching and performance optimization  
-👉 https://github.com/williamfds/nestjs-url-shortener
-
----
-
-## 💡 What I focus on
-
-I focus on building scalable, maintainable and high-performance systems, aligning technical quality with real business impact.
+```yaml
+Backend:        Java 21, Spring Boot, Node.js, NestJS, TypeScript
+Architecture:   Microservices, Event-Driven, Hexagonal, Clean Architecture
+Data:           PostgreSQL, MongoDB, Firebird, Redis
+Real-time:      WebSockets, SSE, RabbitMQ
+Frontend:       React, TypeScript, Chakra UI
+DevOps:         Docker, GitHub Actions, CI/CD
+```
 
 ---
 
-## 📫 Contact
+### 💼 What I focus on
 
-- LinkedIn: https://linkedin.com/in/william-ferreira-da-silva
+- Designing **scalable backends** that hold up as user base grows
+- Building **integrations** with marketplaces, ERPs, fiscal systems and payment gateways
+- Modernizing **legacy systems** without breaking production
+- **Event-driven architectures** that decouple services and improve resilience
+- Mentoring and **code review** as senior reference on engineering teams
+
+---
+
+### 🌟 Open Source Contributions
+
+Active contributor in the **Fastify ecosystem** — one of the most popular Node.js frameworks:
+
+- **[fastify/busboy #191](https://github.com/fastify/busboy/pull/191)** — fix: add `limit` event to BusboyFileStream typings *(merged Nov 2025)*
+- **[fastify/session #304](https://github.com/fastify/session/pull/304)** — fix(tests): populate Set in idGenerator tests *(merged Oct 2025)*
+- **[fastify/fastify-compress #359](https://github.com/fastify/fastify-compress/pull/359)** — fix(test): update decompress test to match actual parsing behavior *(merged Jun 2025)*
+
+---
+
+### 🚀 Selected projects
+
+**[URL Shortener API](https://github.com/williamfds/nestjs-url-shortener)** — Stateless API with Redis caching layer, designed for horizontal scalability. NestJS + PostgreSQL + Redis + Docker.
+
+---
+
+### 📫 Get in touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/william-ferreira-da-silva)
+- 📩 williamfdasilva@gmail.com
+- 🌍 Available for international remote roles (full-time or contract)
+
+---
+
+<sub>Open to backend / fullstack engineering opportunities · Time zones: US, LATAM, Europe</sub>
